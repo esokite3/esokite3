@@ -8,5 +8,5 @@ Right now, I'm building a Clippers Stats Tracker to combine my love for basketba
 </p>
 <p align="center">
 </ br></ br>
-Check out more of my work below!
+**Check out more of my work below!**
 </P>
