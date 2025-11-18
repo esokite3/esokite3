@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-img.png" width="200" />
+  <img src="header-img.png" width="100%" />
 </p>
 </ br>
 I am a Computer Science student at UC San Diego, minoring in Business Analytics, who is passionate about the intersection of art, sports, and tech.
